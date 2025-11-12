@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+mlflow
+sweetviz
+joblib
+flask
+docker
+boto3
+setuptools>=65.0.0
